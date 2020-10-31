@@ -31,3 +31,26 @@
 
 1. When page is loaded get data from localstorage
 2. Add data to the variable
+
+### Delete Data
+
+1. When user clicks on the delete button
+2. Check the index of the item
+3. Remove the item from the array
+4. Load the list
+
+### Delete Data : v2
+
+1. When user clicks on the delete button
+2. Check the index of the item
+3. Set isDeleted to true
+4. Gray out delete / have another list for delete
+5. Load the list
+
+### Mark as completed
+
+1. When the user clicks on sort as completed
+2. Get the index
+3. Set isCompleted to true
+4. Strike out the text
+5. Load List
