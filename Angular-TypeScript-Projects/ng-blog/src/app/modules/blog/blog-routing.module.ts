@@ -14,7 +14,7 @@ const routes: Routes = [
         component:HomePageComponent
       },
       {
-        path:"post",
+        path:"post/:postId",
         component:SinglePostPageComponent
       }
     ]
